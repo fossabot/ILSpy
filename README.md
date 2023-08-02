@@ -1,4 +1,5 @@
-# ILSpy [![NuGet](https://img.shields.io/nuget/v/ICSharpCode.Decompiler.svg)](https://nuget.org/packages/ICSharpCode.Decompiler) ![Build ILSpy](https://github.com/icsharpcode/ILSpy/workflows/Build%20ILSpy/badge.svg?branch=master) [![Mastodon Follow](https://img.shields.io/badge/dynamic/json?label=Mastodon&query=totalItems&url=https%3A%2F%2Fhachyderm.io%2Fusers%2Filspy%2Ffollowers.json&logo=mastodon&style=flat-square)](https://hachyderm.io/@ilspy) [![Twitter Follow](https://img.shields.io/twitter/follow/ILSpy.svg?label=Follow%20@ILSpy)](https://twitter.com/ilspy) [![ILSpy VS extension](https://img.shields.io/badge/VS%20Extension-ILSpy-blue.svg)](https://visualstudiogallery.msdn.microsoft.com/8ef1d688-f80c-4380-8004-2ec7f814e7de) 
+# ILSpy [![NuGet](https://img.shields.io/nuget/v/ICSharpCode.Decompiler.svg)](https://nuget.org/packages/ICSharpCode.Decompiler) ![Build ILSpy](https://github.com/icsharpcode/ILSpy/workflows/Build%20ILSpy/badge.svg?branch=master) [![Mastodon Follow](https://img.shields.io/badge/dynamic/json?label=Mastodon&query=totalItems&url=https%3A%2F%2Fhachyderm.io%2Fusers%2Filspy%2Ffollowers.json&logo=mastodon&style=flat-square)](https://hachyderm.io/@ilspy) [![Twitter Follow](https://img.shields.io/twitter/follow/ILSpy.svg?label=Follow%20@ILSpy)](https://twitter.com/ilspy) [![ILSpy VS extension](https://img.shields.io/badge/VS%20Extension-ILSpy-blue.svg)](https://visualstudiogallery.msdn.microsoft.com/8ef1d688-f80c-4380-8004-2ec7f814e7de) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftrx843%2FILSpy.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftrx843%2FILSpy?ref=badge_shield)
+
 
 ILSpy is the open-source .NET assembly browser and decompiler.
 
@@ -90,3 +91,7 @@ Privacy Policy for ILSpy
 
 ILSpy does not collect any personally identifiable information, nor does it send user files to 3rd party services. 
 ILSpy does not use any APM (Application Performance Management) service to collect telemetry or metrics.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftrx843%2FILSpy.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftrx843%2FILSpy?ref=badge_large)
